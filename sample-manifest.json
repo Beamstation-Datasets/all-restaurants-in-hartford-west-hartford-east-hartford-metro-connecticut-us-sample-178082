@@ -1,12 +1,12 @@
 {
-  "export_job_id": "41753f03-1623-45af-83f2-79c324764f05",
+  "export_job_id": "a6c9069d-3d2e-4924-85d0-fc7b23550136",
   "id_short": 178082,
-  "published_at": "2026-04-10T19:26:33Z",
+  "published_at": "2026-04-17T19:08:53Z",
   "repo_name": "all-restaurants-in-hartford-west-hartford-east-hartford-metro-connecticut-us-sample-178082",
   "sample_asset_name": "beamstation_178082_restaurants-us-hartfordwesthartfordeasthartfordct_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/178082/beamstation_178082_restaurants-us-hartfordwesthartfordeasthartfordct_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "d9ff710578652341ad61d3ac423ecb54eecff3c355d1da7099684d2ea2803758",
-  "sample_size_bytes": 112180,
-  "total_records": 1799
+  "sample_records": 223,
+  "sample_sha256": "7414f4bd5f513d7f62c4d9448d95a64c72969b7415d9f308d89a9886e5c93b5e",
+  "sample_size_bytes": 792507,
+  "total_records": 2236
 }
