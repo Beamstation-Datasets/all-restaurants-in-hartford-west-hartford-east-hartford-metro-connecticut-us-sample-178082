@@ -1,6 +1,6 @@
 # All Restaurants in Hartford-West Hartford-East Hartford (Metro), Connecticut, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 223 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `178082` |
 | Location | Hartford-West Hartford-East Hartford, CT |
 | Category | Restaurants |
-| Full dataset size | 1,799 records |
-| Free sample size | 25 records (1.39%) |
-| Last export | 2026-03-31T13:33:10.924089+00:00 |
+| Full dataset size | 2,236 records |
+| Free sample size | 223 records (9.97%) |
+| Last export | 2026-04-14T13:58:47.331557+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-hartford-west-hartford-east-hartford-metro-connecticut-us-sample-178082/releases/download/sample-latest/beamstation_178082_restaurants-us-hartfordwesthartfordeasthartfordct_SAMPLE_DIST.csv) |
 
 ## What is in this sample
